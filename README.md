@@ -1,8 +1,8 @@
 # This Project Covers the follwing Topics:
-#
 __________________________________________
-->  ASP NET Core 3.1 Project using MVC
-->  Repository Pattern
+* ASP NET Core 3.1 Project using MVC
+ 
+* Repository Pattern
 ->  N-Tier Architecture
 ->  Integrate Identity Framework and adding more fields to Users
 ->  Integrate Entity Framework along with code first migrations

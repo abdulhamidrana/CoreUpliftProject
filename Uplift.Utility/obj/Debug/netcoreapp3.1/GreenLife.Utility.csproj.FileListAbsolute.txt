@@ -1,0 +1,9 @@
+E:\Abdul_Hamid_Rana\ASP_NET_CORE\Project_Uplift\Uplift\Uplift.Utility\bin\Debug\netcoreapp3.1\GreenLife.Utility.deps.json
+E:\Abdul_Hamid_Rana\ASP_NET_CORE\Project_Uplift\Uplift\Uplift.Utility\bin\Debug\netcoreapp3.1\GreenLife.Utility.dll
+E:\Abdul_Hamid_Rana\ASP_NET_CORE\Project_Uplift\Uplift\Uplift.Utility\bin\Debug\netcoreapp3.1\GreenLife.Utility.pdb
+E:\Abdul_Hamid_Rana\ASP_NET_CORE\Project_Uplift\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.1\GreenLife.Utility.csprojAssemblyReference.cache
+E:\Abdul_Hamid_Rana\ASP_NET_CORE\Project_Uplift\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.1\GreenLife.Utility.AssemblyInfoInputs.cache
+E:\Abdul_Hamid_Rana\ASP_NET_CORE\Project_Uplift\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.1\GreenLife.Utility.AssemblyInfo.cs
+E:\Abdul_Hamid_Rana\ASP_NET_CORE\Project_Uplift\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.1\GreenLife.Utility.csproj.CoreCompileInputs.cache
+E:\Abdul_Hamid_Rana\ASP_NET_CORE\Project_Uplift\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.1\GreenLife.Utility.dll
+E:\Abdul_Hamid_Rana\ASP_NET_CORE\Project_Uplift\Uplift\Uplift.Utility\obj\Debug\netcoreapp3.1\GreenLife.Utility.pdb

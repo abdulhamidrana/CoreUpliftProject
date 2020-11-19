@@ -31,5 +31,5 @@ ii) 	Now, run the follwing two migration command =======
 
 Following are the Admin User Account that exists by default 
 
-Admin User  	:  admin@gmail.com
-Password: 	:  Admin123*
+* Admin User  	:  admin@gmail.com
+* Password: 	:  Admin123*
